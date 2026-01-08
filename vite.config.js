@@ -10,8 +10,8 @@ export default defineConfig({
       registerType: "autoUpdate",
       includeAssets: ["wallet.svg", "apple-touch-icon.png", "masked-icon.svg"],
       manifest: {
-        name: "SpendFree",
-        short_name: "SpendFree",
+        name: "FinTrace",
+        short_name: "FinTrace",
         description: "Manage your finances with clarity and precision.",
         theme_color: "#000000",
         background_color: "#000000",

@@ -38,7 +38,7 @@ const NavContent = ({
         <div className="w-10 h-10 rounded-xl bg-primary flex items-center justify-center text-primary-foreground shadow-lg shadow-primary/20">
           <Wallet2 size={24} />
         </div>
-        <h1 className="text-xl font-bold tracking-tight">SpendFree</h1>
+        <h1 className="text-xl font-bold tracking-tight">FinTrace</h1>
       </div>
 
       <nav className="space-y-1">
@@ -123,7 +123,7 @@ export default function Layout({ children, currentView, setView }) {
             <div className="w-8 h-8 rounded-lg bg-primary flex items-center justify-center text-primary-foreground">
               <Wallet2 size={16} />
             </div>
-            <span className="font-bold tracking-tight">SpendFree</span>
+            <span className="font-bold tracking-tight">FinTrace</span>
           </div>
           <button
             onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}

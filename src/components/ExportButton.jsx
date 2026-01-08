@@ -14,7 +14,7 @@ export default function ExportButton({ expenses, month, year }) {
 
     doc.setFontSize(24);
     doc.setTextColor(255, 255, 255);
-    doc.text(`SPENDFREE`, 14, 20);
+    doc.text(`FinTrace`, 14, 20);
 
     doc.setFontSize(10);
     doc.text(
@@ -88,7 +88,7 @@ export default function ExportButton({ expenses, month, year }) {
       },
     });
 
-    doc.save(`SpendFree_Report_${monthName}_${year}.pdf`);
+    doc.save(`FinTrace_Report_${monthName}_${year}.pdf`);
   };
 
   return (

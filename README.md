@@ -1,6 +1,6 @@
 <div align="center">
   <img src="public/wallet.svg" width="80" height="80" alt="SpendFree Logo" />
-  <h1>SpendFree</h1>
+  <h1>FinTrace</h1>
   <p><strong>Master your Capital with Total Clarity.</strong></p>
   <p>A high-performance, privacy-first expense tracking architected for the modern era.</p>
 
@@ -16,7 +16,7 @@
 
 ## 🚀 Overview
 
-**SpendFree** is a next-generation financial management tool designed with precision and user experience at its core. It combines a minimal, high-aesthetic interface with powerful real-time analytics, ensuring you have complete control over your financial narrative. Built on a local-first architecture with end-to-end cloud synchronization via Convex.
+**FinTrace** is a next-generation financial management tool designed with precision and user experience at its core. It combines a minimal, high-aesthetic interface with powerful real-time analytics, ensuring you have complete control over your financial narrative. Built on a local-first architecture with end-to-end cloud synchronization via Convex.
 
 ## ✨ Key Features
 
@@ -24,7 +24,7 @@
 - 📈 **Advanced Analytics**: Real-time spending trends, Month-on-Month performance comparisons, and payment distribution charts.
 - 🎯 **Global Budgeting**: A simplified, single-target monthly budgeting system designed for high-level financial control.
 - 🌓 **Adaptive Themes**: Seamless dark and light mode support with curated, high-contrast color palettes.
-- 📱 **PWA Support**: Install SpendFree as a native application for a lightning-fast desktop/mobile experience.
+- 📱 **PWA Support**: Install FinTrace as a native application for a lightning-fast desktop/mobile experience.
 - 🔐 **Secure & Private**: Enterprise-grade authentication via Clerk, keeping your financial narrative private.
 - ⚡ **Vite Powered**: Built for speed with sub-second load times and a reactive architecture.
 
@@ -93,7 +93,7 @@
 
 ## 🏗️ Architecture
 
-SpendFree follows a modern reactive architecture:
+FinTrace follows a modern reactive architecture:
 
 - **`src/pages`**: Main application views (Dashboard, Settings, Onboarding, etc.)
 - **`src/components`**: Highly reusable UI components featuring glass-morphism styles.
@@ -104,7 +104,7 @@ SpendFree follows a modern reactive architecture:
 
 ## 🚀 Deployment
 
-SpendFree is designed to be easily deployed using modern cloud platforms.
+FinTrace is designed to be easily deployed using modern cloud platforms.
 
 ### 1. Backend (Convex)
 
@@ -134,15 +134,5 @@ We recommend **Vercel** for the smoothest experience with Vite and React.
 
 ---
 
-## 📜 License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
----
-
 <div align="center">
-  <p>Built with ❤️ for the modern accountant.</p>
-  <a href="https://www.linkedin.com/in/varun-gm-86694a1a4/">LinkedIn</a> • 
-  <a href="https://x.com/GMVarun2">Twitter</a> • 
-  <a href="https://www.youtube.com/@Code_Canopy">YouTube</a>
 </div>
