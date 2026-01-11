@@ -289,34 +289,21 @@ function LandingPage() {
             <span className="font-black tracking-tighter">FinTrace</span>
           </div>
           <p className="text-sm text-muted-foreground font-medium">
-            © 2025 FinTrace Architecture. Built for the modern accountant.
+            © 2026 FinTrace by Rahul Sinha.
           </p>
           <div className="flex gap-6">
             <a
               className="text-sm font-bold hover:text-primary cursor-pointer transition-colors flex items-center gap-1"
               target="_blank"
-              href="https://github.com/varungm24"
+              href="https://github.com/Zfocc31"
             >
               <Github size={14} /> GitHub
             </a>
+            
             <a
               className="text-sm font-bold hover:text-primary cursor-pointer transition-colors flex items-center gap-1"
               target="_blank"
-              href="https://x.com/GMVarun2"
-            >
-              <Twitter size={14} /> Twitter
-            </a>
-            <a
-              className="text-sm font-bold hover:text-primary cursor-pointer transition-colors flex items-center gap-1"
-              target="_blank"
-              href="https://www.youtube.com/@Code_Canopy"
-            >
-              <Youtube size={14} /> YouTube
-            </a>
-            <a
-              className="text-sm font-bold hover:text-primary cursor-pointer transition-colors flex items-center gap-1"
-              target="_blank"
-              href="https://www.linkedin.com/in/varun-gm-86694a1a4/"
+              href="https://www.linkedin.com/in/rahul-sinha-r26"
             >
               <Linkedin size={14} /> LinkedIn
             </a>
